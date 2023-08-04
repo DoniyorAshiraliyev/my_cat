@@ -4,7 +4,8 @@ This app for cat
 
 ## Getting Started
 
-[<kbd> <br> Download App <br> </kbd>][https://drive.google.com/file/d/1IF7zz5id54KqnH9oyq3OlvwV0rUGHGXZ/view?usp=share_link]
+[<kbd> <br> Download App <br> </kbd>][Link]
+[Link]: # 'https://drive.google.com/file/d/1IF7zz5id54KqnH9oyq3OlvwV0rUGHGXZ/view?usp=share_link'
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
